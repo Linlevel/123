@@ -1,1 +1,1 @@
-图像下载：(http://www.kaggle.com/datasets/adityajn105/flickr8k) 将其解压到data/caption data目录下
+图像下载：(http://www.kaggle.com/datasets/adityajn105/flickr8k) 将其解压到data/caption data目录下，然后执行create_input_files.py处理数据
